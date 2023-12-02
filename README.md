@@ -20,7 +20,11 @@ This is a simple React application that leverages the `react-speech-recognition`
 
 ```bash
 git clone https://github.com/rishabh-nahar/Gitworks-assignment.git
+```
+```bash
 cd Gitworks-assignment/client
+```
+```bash
 npm install
 ```
 
