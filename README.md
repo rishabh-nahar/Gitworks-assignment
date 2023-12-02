@@ -4,7 +4,7 @@
 
 This is a simple React application that leverages the `react-speech-recognition` library for speech recognition. Users can start and stop speech recognition, and the recognized text is displayed on the screen. The application also provides a button to copy the recognized text to the clipboard.
 
-**Live Demo:** [gitworks-speechtotext.vercel.app](https://gitworks-speechtotext.vercel.app/)
+**Live Demo:** [https://gitworks-assignment.vercel.app/](https://gitworks-assignment.vercel.app/)
 
 ## Features
 
@@ -19,8 +19,8 @@ This is a simple React application that leverages the `react-speech-recognition`
 ## Setup
 
 ```bash
-git clone https://github.com/your-username/speech-to-text-react.git
-cd speech-to-text-react
+git clone https://github.com/rishabh-nahar/Gitworks-assignment.git
+cd sGitworks-assignment/client
 npm install
 ```
 
