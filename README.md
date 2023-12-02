@@ -34,14 +34,14 @@ npm start
 ```
 
 ## Commands
-npm install: Install project dependencies.
-npm start: Run the development server.
-npm build: Build the production-ready application.
+#### npm install: Install project dependencies.
+#### npm start: Run the development server.
+#### npm build: Build the production-ready application.
 
 ## Technologies Used
-React
-react-speech-recognition
-react-toastify
+#### React
+#### react-speech-recognition
+#### react-toastify
 
 ## Issues and Contributions
 If you encounter any issues or have suggestions for improvement, feel free to open an issue or create a pull request.
